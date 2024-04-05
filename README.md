@@ -1,3 +1,8 @@
+#Alunas: 
+- Bruna Heloísa Araújo da Silva: 2525240
+- Ana luiza Jorge campos: 2525232
+
+
 # Lista1_designpattern
 
 # Implementação de Design Patterns na Arquitetura de Software: Sistema de Gerenciamento de Contatos
